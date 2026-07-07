@@ -1,6 +1,6 @@
 # Jae McNeal
 
-## Senior Systems Administrator | Infrastructure Automation | Azure | PowerShell | Microsoft 365
+## Senior Systems Administrator | PowerShell Automation | Azure | Microsoft 365 | Active Directory | Infrastructure Support
 
 I am an IT infrastructure professional with 10+ years of experience supporting Windows environments, Microsoft 365, Active Directory, Azure, VPN connectivity, endpoint support, automation, and enterprise troubleshooting.
 
@@ -22,16 +22,16 @@ My GitHub portfolio focuses on practical infrastructure automation projects that
 
 ## Featured Projects
 
-### Azure Lab
-Hands-on Azure administration lab with PowerShell scripts, deployment notes, and troubleshooting documentation.
-
 ### PowerShell Automation
-Windows administration scripts for system support, troubleshooting, reporting, and automation.
+Reusable PowerShell scripts for Windows Server, Microsoft 365, Azure, Active Directory, reporting, and infrastructure administration.
+
+### Azure Lab
+Azure administration portfolio demonstrating PowerShell automation, cloud infrastructure, resource management, and operational documentation.
 
 ### Infrastructure Scripts
-Infrastructure monitoring, network troubleshooting, and repeatable IT operations scripts.
+Infrastructure troubleshooting and operations scripts for system administration and support workflows.
 
-## Career Target
+## Career Focus
 
 I am focused on remote or Arizona-based roles in:
 
